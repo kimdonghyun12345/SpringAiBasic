@@ -49,7 +49,6 @@ public class SpringAiBasicApplication implements CommandLineRunner {
         log.info(result);
 
 
-
         log.info("자바 프로그래밍 종료!!");
 
 
