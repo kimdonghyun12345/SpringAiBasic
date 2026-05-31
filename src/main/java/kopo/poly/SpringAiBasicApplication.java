@@ -20,6 +20,7 @@ public class SpringAiBasicApplication implements CommandLineRunner {
 
     private final IOcrService ocrService;
 
+
     private final INlpService nlpService;
 
     public static void main(String[] args) {
